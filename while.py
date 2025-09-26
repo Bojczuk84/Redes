@@ -4,4 +4,4 @@ for i in range(10):
     if not valor in lista:
         lista.append(valor)
 
-        print(lista)
+        print(sorted(lista))
