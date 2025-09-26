@@ -1,4 +1,4 @@
-lista = [1, 2, 3, 4, 5]
+lista = input([1, 2, 3, 4, 5, 6, 7, 8, 9, 0])
 lista2 = [10*i for i in lista]
 print(lista2)
 
